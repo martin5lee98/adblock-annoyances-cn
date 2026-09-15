@@ -1,0 +1,109 @@
+! Sep 15, 2026 https://news.sina.cn
+sina.cn##.sina_sliders_pos.sw_c0
+sina.cn##.j_callST.ldy_art_bottom_button_box
+||n.sinaimg.cn/*/feed-push*.js$domain=sina.com.cn|sinaimg.cn
+
+! Sep 15, 2026 https://finance.sina.cn
+sina.cn##.m-sentiment-blk
+sina.cn##.pluse.animated.btn-subpage-bottom-callup
+
+! Sep 15, 2026 https://gu.sina.cn
+gu.sina.cn##.-fin-header
+
+! Sep 16, 2026 https://gu.sina.cn
+gu.sina.cn##.pluse.btn-subpage-bottom-callup
+gu.sina.cn##.snp-bottom-bar
+||sapi.sina.cn^
+||finance.sina.cn/app/SFA_drawLottery.txt
+||finance.sina.com.cn/other/src/app/SFA_drawLottery.js
+
+! Sep 16, 2026 https://m.163.com
+m.163.com##.widget-floatMenu
+m.163.com##.s-left > .s-info > .s-openApp
+
+i.ifeng.com##[class^="index_fixSlideBox_"]
+ifeng.com##[class^="index_iframeAdBox_"]
+original.ifeng.com##[class^="index_link_"]
+news.ifeng.com##[class^="index_link_"]
+! Sep 16, 2026 https://view.inews.qq.com
+qq.com##[class^="article-bottom-section_fixedLaunchButton__"]
+qq.com##[class^="bottom-bar_buttonWrap__"]
+qq.com##[class^="article-item_guide__"]
+||launch.inews.qq.com^
+
+! Sep 16, 2026 https://m.jd.com
+m.jd.com###imk2FixedBottom
+
+! Sep 16, 2026 https://item.m.jd.com
+item.m.jd.com###m_common_tip_trynow
+item.m.jd.com###m_common_tip
+
+! Sep 16, 2026 https://m.jd.com
+m.jd.com##.download-pannel.s4.topbanner
+||h5speed.m.jd.com/event/getRule^
+||h5speed.m.jd.com/v4/exception
+
+! Sep 16, 2026 https://main.m.taobao.com
+main.m.taobao.com##button
+main.m.taobao.com###tcodeSideBar
+
+! Sep 16, 2026 https://login.m.taobao.com
+login.m.taobao.com##body > button
+
+! Sep 16, 2026 https://www.baidu.com
+www.baidu.com##.re1937310b121
+
+! Sep 16, 2026 https://m.jiemian.com
+m.jiemian.com##.swiper-slide-active.swiper-slide > .open-app
+m.jiemian.com##.app-open
+||papi.jiemian.com
+||ad.jiemian.com
+||a.jiemian.com/index.php*a=redirect
+
+||m.yicai.com/assets/iSlider.min.js
+||m.yicai.com/assets/iSlider.plugin.dot.min.js
+
+! Sep 16, 2026 https://m.yicai.com
+m.yicai.com##.linkapp
+m.yicai.com##.isliderbox
+m.yicai.com##.m-float-appopen
+
+! Sep 16, 2026 https://m.bjnews.com.cn
+m.bjnews.com.cn##.xjb-top
+
+! Sep 16, 2026 https://m.douban.com
+m.douban.com##.talion-nav-footer
+
+! Sep 16, 2026 https://news.caijingmobile.com
+news.caijingmobile.com##.readmore > .btn_readmore
+news.caijingmobile.com##.bottom-flash
+
+! Sep 16, 2026 https://music.163.com
+music.163.com##.m-song-unityTop
+
+! Sep 16, 2026 https://www.infzm.com
+www.infzm.com##.infzm-stack-comments-more.text-center
+www.infzm.com##.infzm-layout__header-top
+||c.umsns.com
+||web.fundebug.net
+
+! Sep 16, 2026 https://m.thepaper.cn
+m.thepaper.cn##[class^="footer_banner__"]
+
+! Sep 16, 2026 https://cj.sina.cn
+cj.sina.cn###c-98edbb4cb9566d03_1789491430466 > div > div
+cj.sina.cn##.s-71678c9f46d6a250-bottom.s-71678c9f46d6a250
+cj.sina.cn##.pluse.animated.jguss-caijing.m-guss-caijing
+cj.sina.cn##.js-nav-client-down.client-down
+cj.sina.cn##.animated.jguss-caijing.m-guss-caijing
+cj.sina.cn##.unfold-btn1 > .unfold-words
+cj.sina.cn##.module-footer
+||stock.sina.com.cn/iphone/jump
+||finance.sina.com.cn/other/src/app/build.callUpApp.min.js
+cj.sina.cn##.j-topbar.part.top-bar
+cj.sina.cn##.unfold-words
+cj.sina.cn##.article-kandian
+
+! Sep 16, 2026 https://wap.cj.sina.cn
+cj.sina.cn##.hd_app_down
+
