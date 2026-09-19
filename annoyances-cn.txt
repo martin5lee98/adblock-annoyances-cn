@@ -108,3 +108,8 @@ cj.sina.cn##.article-kandian
 cj.sina.cn##.hd_app_down
 
 ||s1.hdslb.com/bfs/seed/log/report/log-reporter.js
+! Sep 19, 2026 https://m.bilibili.com
+m.bilibili.com##.m-nav-openapp.m-open-app
+m.bilibili.com##.fixed-openapp.m-open-app
+||data.bilibili.com
+m.bilibili.com##.openapp-btn
