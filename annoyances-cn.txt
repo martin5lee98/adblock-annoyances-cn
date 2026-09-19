@@ -113,3 +113,6 @@ m.bilibili.com##.m-nav-openapp.m-open-app
 m.bilibili.com##.fixed-openapp.m-open-app
 ||data.bilibili.com
 m.bilibili.com##.openapp-btn
+m.bilibili.com##[class*="GoApp_mFixedOpenapp_"]
+m.bilibili.com##[class*="TopBar_downloadEntry_"]
+m.bilibili.com##[class*="VideoCover_openAppBtn_"]
