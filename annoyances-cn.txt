@@ -107,4 +107,4 @@ cj.sina.cn##.article-kandian
 ! Sep 16, 2026 https://wap.cj.sina.cn
 cj.sina.cn##.hd_app_down
 
-||hdslb.com/bfs/seed/log/report/log-reporter.js
+||s1.hdslb.com/bfs/seed/log/report/log-reporter.js
